@@ -1,0 +1,6 @@
+*
+!/.gitignore
+!/README.md
+!/story.md
+!/images/
+!/images/*.png
